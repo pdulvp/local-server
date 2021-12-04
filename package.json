@@ -1,0 +1,19 @@
+{
+  "name": "@pdulvp/local-server",
+  "version": "1.0.3",
+  "description": "This repository is a http local server that can be used like: ``` node.exe index.js \"%FOLDER%\" \"%PORT%\" ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pdulvp",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdulvp/local-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pdulvp/local-server/issues"
+  },
+  "homepage": "https://github.com/pdulvp/local-server#readme"
+}
